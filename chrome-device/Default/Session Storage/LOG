@@ -1,0 +1,17 @@
+2024/08/05-14:37:18.417 4390 Creating DB C:\Users\RAULIA~1.EPO\AppData\Local\Temp\flutter_tools.90291d3d\flutter_tools_chrome_device.876d7a20\Default\Session Storage since it was missing.
+2024/08/05-14:37:18.492 4390 Reusing MANIFEST C:\Users\RAULIA~1.EPO\AppData\Local\Temp\flutter_tools.90291d3d\flutter_tools_chrome_device.876d7a20\Default\Session Storage/MANIFEST-000001
+2024/08/05-14:43:48.242 4a30 Level-0 table #5: started
+2024/08/05-14:43:48.561 4a30 Level-0 table #5: 23886 bytes OK
+2024/08/05-14:43:48.565 4a30 Delete type=0 #3
+2024/08/05-14:44:48.255 3e4c Level-0 table #7: started
+2024/08/05-14:44:48.276 3e4c Level-0 table #7: 36618 bytes OK
+2024/08/05-14:44:48.291 3e4c Delete type=0 #4
+2024/08/05-14:45:48.241 4390 Level-0 table #9: started
+2024/08/05-14:45:48.294 4390 Level-0 table #9: 72395 bytes OK
+2024/08/05-14:45:48.298 4390 Delete type=0 #6
+2024/08/05-14:46:48.247 4390 Level-0 table #11: started
+2024/08/05-14:46:48.263 4390 Level-0 table #11: 341490 bytes OK
+2024/08/05-14:46:48.270 4390 Delete type=0 #8
+2024/08/05-14:47:49.757 3e4c Level-0 table #13: started
+2024/08/05-14:47:49.789 3e4c Level-0 table #13: 235714 bytes OK
+2024/08/05-14:47:49.793 3e4c Delete type=0 #10
